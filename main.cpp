@@ -3,7 +3,8 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-
+//vypracovali Vojtěch Gerö a Tereza Vrbová
+//deska STM32F746G-DISCO
 #include "mbed.h"
 #include <string>
 #include "morse.h"
