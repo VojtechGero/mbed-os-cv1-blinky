@@ -3,6 +3,7 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
+
 #include "mbed.h"
 #include <string>
 #include "morse.h"
@@ -12,7 +13,7 @@ bool run;
 DigitalOut led(LED1);
 
 void init() {
-    mess = "sos vojta";
+    mess = "sos test";
     led = 0;
     run = true;
 }
